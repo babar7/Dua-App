@@ -1,0 +1,55 @@
+body{
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fullName{
+    margin-top: 50px;
+    margin-left: 25px;
+    color: white;
+}
+.btns{
+    position: absolute;
+    right: 2rem;
+    top: 40px;
+}
+.duaDiv{                                
+    margin: 0 auto;                     
+    margin-bottom: 10px;
+}
+.dua{
+    border-bottom: 2px solid #878181
+}
+.inputDiv{
+    width: 20rem ;
+    height: 1.9rem;
+}
+.inputCmnt{
+    border-radius: 40px;
+}
+.cmntBtn{
+    padding: 2px;
+    height: 30px;
+    font-size: small; 
+}
+.crdBdy{
+    border-bottom: 1px solid #C1BCBC;
+    border-block-start: 3px;
+    padding: 6px;
+    padding-left: 25px;
+    font-size: 14px;
+}
+.comment{
+    height: 30px;
+    width: 100%;
+}
+.dltBtn{
+    float: right;
+    padding: .1rem;
+    font-size: small;
+    height: 25px;       
+}
